@@ -1,0 +1,3 @@
+https://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/
+https://towardsdatascience.com/nothing-but-numpy-understanding-creating-binary-classification-neural-networks-with-e746423c8d5c
+https://www.kaggle.com/karthik7395/binary-classification-using-neural-networks
